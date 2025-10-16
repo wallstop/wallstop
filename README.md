@@ -8,6 +8,6 @@ Currently, I'm the Technical Director/CTO at [The Ambiguous](https://theambiguou
 
 Whether it's crafting seamless gameplay or architecting reliable infrastructure at scale, I'm passionate about creating things that work beautifully and perform exceptionally.
 
-Want to chat? Let's connect: https://calendly.com/wallstop
+Want to chat? Let's connect on [Calendly](https://calendly.com/wallstop).
 
 Thanks for stopping by!
