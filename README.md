@@ -1,1 +1,1 @@
-I tinker around, here and there. If you email me, I might respond!
+I tinker on stuff. If you email me, I might respond!
