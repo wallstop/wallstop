@@ -11,7 +11,7 @@
 
 ## About
 
-I have several man-decades of technical and people experience across games, tools, websites, large-scale team and organization coordination, globally distributed systems - the list goes on.
+I bring decades of experience across games, tools, websites, distributed systems, and team leadership.
 
 ---
 
@@ -30,26 +30,35 @@ I have several man-decades of technical and people experience across games, tool
 
 ## Featured Projects
 
-<p align="center">
-  <a href="https://github.com/wallstop/unity-helpers">
-    <img width="49%" src="./assets/cards/unity-helpers.svg" alt="unity-helpers card" />
-  </a>
-  <a href="https://github.com/wallstop/DxMessaging">
-    <img width="49%" src="./assets/cards/DxMessaging.svg" alt="DxMessaging card" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/wallstop/DxCommandTerminal">
-    <img width="49%" src="./assets/cards/DxCommandTerminal.svg" alt="DxCommandTerminal card" />
-  </a>
-  <a href="https://github.com/wallstop?tab=repositories">
-    <img width="49%" src="./assets/cards/all-repos.svg" alt="All repositories" />
-  </a>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/wallstop/unity-helpers">
+        <img width="100%" src="./assets/cards/unity-helpers.svg" alt="unity-helpers card" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/wallstop/DxMessaging">
+        <img width="100%" src="./assets/cards/DxMessaging.svg" alt="DxMessaging card" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/wallstop/DxCommandTerminal">
+        <img width="100%" src="./assets/cards/DxCommandTerminal.svg" alt="DxCommandTerminal card" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/wallstop?tab=repositories">
+        <img width="100%" src="./assets/cards/all-repos.svg" alt="All repositories" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Connect
 
-I love building cool stuff, connecting with people, and providing feedback. If that sounds useful, reach out.
+I love building useful things, connecting with people, and sharing practical feedback. If that sounds helpful, reach out.
