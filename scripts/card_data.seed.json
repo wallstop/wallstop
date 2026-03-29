@@ -1,0 +1,33 @@
+{
+  "user": {
+    "public_repos": 54,
+    "followers": 64,
+    "following": 12
+  },
+  "repos": [
+    {
+      "name": "unity-helpers",
+      "language": "C#",
+      "stargazers_count": 165,
+      "forks_count": 7,
+      "open_issues_count": 3,
+      "pushed_at": "2026-03-24T18:30:00Z"
+    },
+    {
+      "name": "DxMessaging",
+      "language": "C#",
+      "stargazers_count": 22,
+      "forks_count": 0,
+      "open_issues_count": 0,
+      "pushed_at": "2026-03-26T09:05:00Z"
+    },
+    {
+      "name": "DxCommandTerminal",
+      "language": "C#",
+      "stargazers_count": 12,
+      "forks_count": 1,
+      "open_issues_count": 0,
+      "pushed_at": "2026-03-20T12:11:00Z"
+    }
+  ]
+}
