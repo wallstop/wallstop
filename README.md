@@ -11,7 +11,7 @@
 
 ## About
 
-I have several man-decades of technical and people experience across games, tools, websites, large-scale coordination, and globally distributed systems.
+I have several man-decades of technical and people experience across games, tools, websites, large-scale team and organization coordination, globally distributed systems - the list goes on.
 
 ---
 
