@@ -32,19 +32,19 @@ I have several man-decades of technical and people experience across games, tool
 
 <p align="center">
   <a href="https://github.com/wallstop/unity-helpers">
-    <img width="98%" src="https://opengraph.githubassets.com/1/wallstop/unity-helpers" alt="unity-helpers repository card" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=wallstop&repo=unity-helpers&theme=github_dark&hide_border=true" alt="unity-helpers compact card" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/wallstop/DxMessaging">
-    <img width="98%" src="https://opengraph.githubassets.com/1/wallstop/DxMessaging" alt="DxMessaging repository card" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=wallstop&repo=DxMessaging&theme=github_dark&hide_border=true" alt="DxMessaging compact card" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/wallstop/DxCommandTerminal">
-    <img width="98%" src="https://opengraph.githubassets.com/1/wallstop/DxCommandTerminal" alt="DxCommandTerminal repository card" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=wallstop&repo=DxCommandTerminal&theme=github_dark&hide_border=true" alt="DxCommandTerminal compact card" />
+  </a>
+  <a href="https://github.com/wallstop?tab=repositories">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallstop&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
   </a>
 </p>
 
