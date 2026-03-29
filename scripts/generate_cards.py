@@ -103,16 +103,16 @@ def make_all_repos_card(owner: str, user: dict[str, Any], repos: list[dict[str, 
     total_stars = str(sum(int(repo.get("stargazers_count", 0)) for repo in repos))
 
     chips = [
-        stat_chip(24, 128, "Public repos", public_repos, "#1F6FEB", width=288),
-        stat_chip(328, 128, "Followers", followers, "#238636", width=288),
-        stat_chip(24, 170, "Following", following, "#8250DF", width=288),
-        stat_chip(328, 170, "Total stars", total_stars, "#DA3633", width=288),
+        stat_chip(24, 116, "Public repos", public_repos, "#1F6FEB", width=288),
+        stat_chip(328, 116, "Followers", followers, "#238636", width=288),
+        stat_chip(24, 158, "Following", following, "#8250DF", width=288),
+        stat_chip(328, 158, "Total stars", total_stars, "#DA3633", width=288),
     ]
 
-    return f'''<svg width="{CARD_WIDTH}" height="{CARD_HEIGHT + 34}" viewBox="0 0 {CARD_WIDTH} {CARD_HEIGHT + 34}" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+    return f'''<svg width="{CARD_WIDTH}" height="{CARD_HEIGHT}" viewBox="0 0 {CARD_WIDTH} {CARD_HEIGHT}" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">All Repositories</title>
   <desc id="desc">Explore all of {escape(owner)}'s GitHub projects</desc>
-  <rect x="1" y="1" width="{CARD_WIDTH - 2}" height="{CARD_HEIGHT + 32}" rx="18" fill="#0D1117" stroke="#30363D" stroke-width="2"/>
+  <rect x="1" y="1" width="{CARD_WIDTH - 2}" height="{CARD_HEIGHT - 2}" rx="18" fill="#0D1117" stroke="#30363D" stroke-width="2"/>
   <text x="24" y="50" fill="#58A6FF" font-size="34" font-weight="700" font-family="Segoe UI, Ubuntu, sans-serif">All Repositories</text>
   <text x="24" y="88" fill="#C9D1D9" font-size="22" font-family="Segoe UI, Ubuntu, sans-serif">Explore all of {escape(owner)}'s GitHub projects</text>
   {chips[0]}
