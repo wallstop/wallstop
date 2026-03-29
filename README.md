@@ -23,7 +23,7 @@ I have several man-decades of technical and people experience across games, tool
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=wallstop&theme=github-compact&hide_border=true&area=true" alt="Contribution graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=wallstop&bg_color=0d1117&color=58a6ff&line=3fb950&point=f85149&area=true&hide_border=true" alt="Contribution graph" />
 </p>
 
 ---
@@ -32,19 +32,19 @@ I have several man-decades of technical and people experience across games, tool
 
 <p align="center">
   <a href="https://github.com/wallstop/unity-helpers">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=wallstop&repo=unity-helpers&theme=github_dark&hide_border=true" alt="unity-helpers compact card" />
+    <img width="49%" src="./assets/cards/unity-helpers.svg" alt="unity-helpers card" />
   </a>
   <a href="https://github.com/wallstop/DxMessaging">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=wallstop&repo=DxMessaging&theme=github_dark&hide_border=true" alt="DxMessaging compact card" />
+    <img width="49%" src="./assets/cards/DxMessaging.svg" alt="DxMessaging card" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/wallstop/DxCommandTerminal">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=wallstop&repo=DxCommandTerminal&theme=github_dark&hide_border=true" alt="DxCommandTerminal compact card" />
+    <img width="49%" src="./assets/cards/DxCommandTerminal.svg" alt="DxCommandTerminal card" />
   </a>
   <a href="https://github.com/wallstop?tab=repositories">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallstop&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+    <img width="49%" src="./assets/cards/all-repos.svg" alt="All repositories" />
   </a>
 </p>
 
