@@ -32,19 +32,19 @@ I have several man-decades of technical and people experience across games, tool
 
 <p align="center">
   <a href="https://github.com/wallstop/unity-helpers">
-    <img width="49%" src="https://gh-card.dev/repos/wallstop/unity-helpers.svg" alt="unity-helpers card" />
+    <img width="49%" src="./assets/cards/unity-helpers.svg" alt="unity-helpers card" />
   </a>
   <a href="https://github.com/wallstop/DxMessaging">
-    <img width="49%" src="https://gh-card.dev/repos/wallstop/DxMessaging.svg" alt="DxMessaging card" />
+    <img width="49%" src="./assets/cards/DxMessaging.svg" alt="DxMessaging card" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/wallstop/DxCommandTerminal">
-    <img width="49%" src="https://gh-card.dev/repos/wallstop/DxCommandTerminal.svg" alt="DxCommandTerminal card" />
+    <img width="49%" src="./assets/cards/DxCommandTerminal.svg" alt="DxCommandTerminal card" />
   </a>
   <a href="https://github.com/wallstop?tab=repositories">
-    <img width="49%" src="https://gh-card.dev/repos/wallstop/wallstop.svg" alt="All repositories" />
+    <img width="49%" src="./assets/cards/all-repos.svg" alt="All repositories" />
   </a>
 </p>
 

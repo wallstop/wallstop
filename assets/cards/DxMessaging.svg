@@ -1,0 +1,10 @@
+<svg width="640" height="170" viewBox="0 0 640 170" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">DxMessaging</title>
+  <desc id="desc">Game engine agnostic robust messaging solution</desc>
+  <rect x="1" y="1" width="638" height="168" rx="18" fill="#0D1117" stroke="#30363D" stroke-width="2"/>
+  <text x="26" y="52" fill="#58A6FF" font-size="34" font-weight="700" font-family="Segoe UI, Ubuntu, sans-serif">DxMessaging</text>
+  <text x="26" y="90" fill="#C9D1D9" font-size="24" font-family="Segoe UI, Ubuntu, sans-serif">Engine-agnostic robust messaging</text>
+  <rect x="26" y="114" width="90" height="34" rx="17" fill="#1F6FEB" fill-opacity="0.20" stroke="#1F6FEB"/>
+  <text x="50" y="136" fill="#79C0FF" font-size="18" font-family="Segoe UI, Ubuntu, sans-serif">C#</text>
+  <text x="132" y="136" fill="#8B949E" font-size="18" font-family="Segoe UI, Ubuntu, sans-serif">Featured Repo</text>
+</svg>

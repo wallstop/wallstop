@@ -1,0 +1,9 @@
+<svg width="640" height="170" viewBox="0 0 640 170" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">All Repositories</title>
+  <desc id="desc">Browse all repositories</desc>
+  <rect x="1" y="1" width="638" height="168" rx="18" fill="#0D1117" stroke="#30363D" stroke-width="2"/>
+  <text x="26" y="52" fill="#58A6FF" font-size="34" font-weight="700" font-family="Segoe UI, Ubuntu, sans-serif">All Repositories</text>
+  <text x="26" y="90" fill="#C9D1D9" font-size="24" font-family="Segoe UI, Ubuntu, sans-serif">Explore everything in the wallstop GitHub profile</text>
+  <rect x="26" y="114" width="168" height="34" rx="17" fill="#238636" fill-opacity="0.20" stroke="#238636"/>
+  <text x="49" y="136" fill="#7EE787" font-size="18" font-family="Segoe UI, Ubuntu, sans-serif">Open Repos →</text>
+</svg>
