@@ -23,39 +23,18 @@ I have several man-decades of technical and people experience across games, tool
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=wallstop&theme=github-compact&hide_border=true&area=true" alt="Contribution graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=wallstop&bg_color=0d1117&color=58a6ff&line=3fb950&point=f85149&area=true&hide_border=true" alt="Contribution graph" />
 </p>
 
 ---
 
 ## Featured Projects
 
-<p align="center">
-  <a href="https://github.com/wallstop/unity-helpers">
-    <picture>
-      <source srcset="https://gh-card.dev/repos/wallstop/unity-helpers.svg?fullname=&link_target=_blank" />
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=wallstop&repo=unity-helpers&theme=github_dark&hide_border=true" alt="unity-helpers repo card" />
-    </picture>
-  </a>
-  <a href="https://github.com/wallstop/DxMessaging">
-    <picture>
-      <source srcset="https://gh-card.dev/repos/wallstop/DxMessaging.svg?fullname=&link_target=_blank" />
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=wallstop&repo=DxMessaging&theme=github_dark&hide_border=true" alt="DxMessaging repo card" />
-    </picture>
-  </a>
-</p>
+[![unity-helpers card](https://github-readme-stats.vercel.app/api/pin/?username=wallstop&repo=unity-helpers&theme=tokyonight&hide_border=true)](https://github.com/wallstop/unity-helpers)
+[![DxMessaging card](https://github-readme-stats.vercel.app/api/pin/?username=wallstop&repo=DxMessaging&theme=tokyonight&hide_border=true)](https://github.com/wallstop/DxMessaging)
 
-<p align="center">
-  <a href="https://github.com/wallstop/DxCommandTerminal">
-    <picture>
-      <source srcset="https://gh-card.dev/repos/wallstop/DxCommandTerminal.svg?fullname=&link_target=_blank" />
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=wallstop&repo=DxCommandTerminal&theme=github_dark&hide_border=true" alt="DxCommandTerminal repo card" />
-    </picture>
-  </a>
-  <a href="https://github.com/wallstop?tab=repositories">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallstop&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-  </a>
-</p>
+[![DxCommandTerminal card](https://github-readme-stats.vercel.app/api/pin/?username=wallstop&repo=DxCommandTerminal&theme=tokyonight&hide_border=true)](https://github.com/wallstop/DxCommandTerminal)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wallstop&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/wallstop?tab=repositories)
 
 ---
 
