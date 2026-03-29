@@ -28,11 +28,23 @@ I have several man-decades of technical and people experience across games, tool
 
 ---
 
-## Featured Project
+## Featured Projects
 
 <p align="center">
-  <a href="https://github.com/wallstop/wallstop">
-    <img width="98%" src="https://opengraph.githubassets.com/1/wallstop/wallstop" alt="wallstop repository card" />
+  <a href="https://github.com/wallstop/unity-helpers">
+    <img width="98%" src="https://opengraph.githubassets.com/1/wallstop/unity-helpers" alt="unity-helpers repository card" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/wallstop/DxMessaging">
+    <img width="98%" src="https://opengraph.githubassets.com/1/wallstop/DxMessaging" alt="DxMessaging repository card" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/wallstop/DxCommandTerminal">
+    <img width="98%" src="https://opengraph.githubassets.com/1/wallstop/DxCommandTerminal" alt="DxCommandTerminal repository card" />
   </a>
 </p>
 
