@@ -30,11 +30,23 @@ I have several man-decades of technical and people experience across games, tool
 
 ## Featured Projects
 
-[![unity-helpers card](https://github-readme-stats.vercel.app/api/pin/?username=wallstop&repo=unity-helpers&theme=tokyonight&hide_border=true)](https://github.com/wallstop/unity-helpers)
-[![DxMessaging card](https://github-readme-stats.vercel.app/api/pin/?username=wallstop&repo=DxMessaging&theme=tokyonight&hide_border=true)](https://github.com/wallstop/DxMessaging)
+<p align="center">
+  <a href="https://github.com/wallstop/unity-helpers">
+    <img width="49%" src="https://gh-card.dev/repos/wallstop/unity-helpers.svg" alt="unity-helpers card" />
+  </a>
+  <a href="https://github.com/wallstop/DxMessaging">
+    <img width="49%" src="https://gh-card.dev/repos/wallstop/DxMessaging.svg" alt="DxMessaging card" />
+  </a>
+</p>
 
-[![DxCommandTerminal card](https://github-readme-stats.vercel.app/api/pin/?username=wallstop&repo=DxCommandTerminal&theme=tokyonight&hide_border=true)](https://github.com/wallstop/DxCommandTerminal)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wallstop&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/wallstop?tab=repositories)
+<p align="center">
+  <a href="https://github.com/wallstop/DxCommandTerminal">
+    <img width="49%" src="https://gh-card.dev/repos/wallstop/DxCommandTerminal.svg" alt="DxCommandTerminal card" />
+  </a>
+  <a href="https://github.com/wallstop?tab=repositories">
+    <img width="49%" src="https://gh-card.dev/repos/wallstop/wallstop.svg" alt="All repositories" />
+  </a>
+</p>
 
 ---
 
