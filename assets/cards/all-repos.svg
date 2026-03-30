@@ -5,11 +5,11 @@
   <text x="24" y="50" fill="#58A6FF" font-size="34" font-weight="700" font-family="Segoe UI, Ubuntu, sans-serif">All Repositories</text>
   <text x="24" y="88" fill="#C9D1D9" font-size="22" font-family="Segoe UI, Ubuntu, sans-serif">Explore all of wallstop's GitHub projects</text>
   <rect x="24" y="116" width="288" height="34" rx="17" fill="#1F6FEB" fill-opacity="0.20" stroke="#1F6FEB" />
-<text x="38" y="139" fill="#C9D1D9" font-size="17" font-family="Segoe UI, Ubuntu, sans-serif">Public repos: 54</text>
+<text x="38" y="139" fill="#C9D1D9" font-size="17" font-family="Segoe UI, Ubuntu, sans-serif">Public repos: 78</text>
   <rect x="328" y="116" width="288" height="34" rx="17" fill="#238636" fill-opacity="0.20" stroke="#238636" />
-<text x="342" y="139" fill="#C9D1D9" font-size="17" font-family="Segoe UI, Ubuntu, sans-serif">Followers: 64</text>
+<text x="342" y="139" fill="#C9D1D9" font-size="17" font-family="Segoe UI, Ubuntu, sans-serif">Followers: 28</text>
   <rect x="24" y="158" width="288" height="34" rx="17" fill="#8250DF" fill-opacity="0.20" stroke="#8250DF" />
-<text x="38" y="181" fill="#C9D1D9" font-size="17" font-family="Segoe UI, Ubuntu, sans-serif">Following: 12</text>
+<text x="38" y="181" fill="#C9D1D9" font-size="17" font-family="Segoe UI, Ubuntu, sans-serif">Following: 20</text>
   <rect x="328" y="158" width="288" height="34" rx="17" fill="#DA3633" fill-opacity="0.20" stroke="#DA3633" />
-<text x="342" y="181" fill="#C9D1D9" font-size="17" font-family="Segoe UI, Ubuntu, sans-serif">Total stars: 199</text>
+<text x="342" y="181" fill="#C9D1D9" font-size="17" font-family="Segoe UI, Ubuntu, sans-serif">Total stars: 288</text>
 </svg>
