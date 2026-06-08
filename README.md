@@ -11,7 +11,7 @@
 
 ## About
 
-I bring decades of experience across games, tools, websites, distributed systems, and team leadership.
+I bring over a decade of experience across games, tools, distributed systems, websites, and team leadership.
 
 ---
 
